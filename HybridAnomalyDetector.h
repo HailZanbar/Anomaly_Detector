@@ -1,9 +1,3 @@
-/*
- * HybridAnomalyDetector.h
- *
- * Author: Hail Zanbar 322766353
- * Partner: Hadas Eshel 206775074
- */
 #ifndef HYBRIDANOMALYDETECTOR_H_
 #define HYBRIDANOMALYDETECTOR_H_
 
