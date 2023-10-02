@@ -1,10 +1,3 @@
-/*
- * CLI.h
- *
- * Author: Hadas Eshel 206775074
- * Partner: Hail Zanbar 322766353
- */
-
 #ifndef CLI_H_
 #define CLI_H_
 
