@@ -1,9 +1,3 @@
-/*
- * minCircle.h
- *
- * Author: Hail Zanbar 322766353
- * Partner: Hadas Eshel 206775074
- */
 #ifndef MINCIRCLE_H_
 #define MINCIRCLE_H_
 
