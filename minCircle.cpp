@@ -1,9 +1,3 @@
-/*
- * minCircle.cpp
- *
- * Author: Hail Zanbar 322766353
- * Partner: Hadas Eshel 206775074
- */
 #include "minCircle.h"
 
 // C++ program to find the minimum enclosing
