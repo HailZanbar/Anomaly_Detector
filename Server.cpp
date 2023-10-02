@@ -1,10 +1,3 @@
-/*
- * Server.cpp
- *
- * Author: Hail Zanbar 322766353
- * Partner: Hadas Eshel 206775074
- */
-
 #include "Server.h"
 #include <sys/socket.h>
 #include <netinet/in.h>
