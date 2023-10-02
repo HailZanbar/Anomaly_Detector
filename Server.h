@@ -1,10 +1,3 @@
-/*
- * Server.h
- *
- * Author: Hail Zanbar 322766353
- * Partner: Hadas Eshel 206775074
- */
-
 #ifndef SERVER_H_
 #define SERVER_H_
 
