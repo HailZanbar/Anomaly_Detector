@@ -1,9 +1,3 @@
-/*
- * commands.h
- *
- * Author: Hadas Eshel 206775074
- * Partner: Hail Zanbar 322766353
- */
 
 #ifndef COMMANDS_H_
 #define COMMANDS_H_
