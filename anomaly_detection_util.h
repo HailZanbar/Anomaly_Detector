@@ -1,9 +1,3 @@
-/*
- * anomaly_detection_util.cpp
- *
- * Author: Hail Zanbar 322766353
- * Partner: Hadas Eshel 206775074
- */
 
 #ifndef EX1_ANOMALY_DETECTION_UTIL_H
 #define EX1_ANOMALY_DETECTION_UTIL_H
