@@ -1,11 +1,3 @@
-/*
- * SimpleAnomalyDetector.h
- *
- * Author: Hail Zanbar 322766353
- * Partner: Hadas Eshel 2067750743
- */
-
-
 #ifndef SIMPLEANOMALYDETECTOR_H_
 #define SIMPLEANOMALYDETECTOR_H_
 
